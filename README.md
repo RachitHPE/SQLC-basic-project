@@ -1,5 +1,9 @@
 # SQLC-basic-test
 
+SQLC is a database tool to generate idiomatic type-safe go code that derived from our own SQL Queries.
+
+It is basically an alternative for GORM in golang
+
 Install packages-->
 1) sqlc
  
